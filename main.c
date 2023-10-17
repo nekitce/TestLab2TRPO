@@ -4,6 +4,6 @@ int main(int argc, char **argv)
 printf("Hello world!\n");
 return 0;
 }
-masterstash
-LAB2
+slave1235
+
 
